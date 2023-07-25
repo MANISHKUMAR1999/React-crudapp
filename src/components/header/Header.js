@@ -21,7 +21,7 @@ const Header = () => {
     <div>
       <Navbar position='static'>
         <Toolbar>
-          <Link to="/" className='link'><Tabs >Code For Interview</Tabs></Link>
+          <Link to="/" className='link'><Tabs >Home</Tabs></Link>
         <Link to="/user" className='link'> <Tabs >All User</Tabs></Link>  
         <Link to="/add" className='link'><Tabs >Add User</Tabs></Link>  
         </Toolbar>
